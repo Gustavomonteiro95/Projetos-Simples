@@ -8,7 +8,7 @@
 
 <a href="https://gustavomonteiro95.github.io/Projetos-Simples/projeto-inicial-spotify/index.html" target="_blank">Executar Langing Page - Spotify</a>
 
-<a href="https://gustavomonteiro95.github.io/Projetos-Simples/Hamburger Menu/hamburger.html" target="_blank">Executar Menu hamburger</a>
+<a href="https://gustavomonteiro95.github.io/Projetos-Simples/Hamburguer Menu/hamburger.html" target="_blank">Executar Menu hamburger</a>
 
 <a href="https://gustavomonteiro95.github.io/Projetos-Simples/Navegacao/navigation.html" target="_blank">Executar Barra Navegação</a>
 
