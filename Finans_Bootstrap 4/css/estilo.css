@@ -19,3 +19,7 @@ footer p a {
 	margin-left: 15px;
 	text-decoration: none;
 }
+
+form div input {
+	width: 230px;
+}
